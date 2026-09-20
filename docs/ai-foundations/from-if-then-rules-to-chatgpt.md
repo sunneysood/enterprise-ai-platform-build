@@ -1,8 +1,5 @@
 # From If-Then Rules to ChatGPT: How AI Really Learned to "Think"
 
-> **Original publication:** Hashnode  
-> **Role in this repository:** AI history and conceptual foundations — the evolution from rule-based systems to machine learning, neural networks, attention, Transformers, and LLMs.
-
 Imagine trying to teach a computer what a dog looks like — not by showing it pictures, but by writing rules: "If it has four legs, and fur, and a tail, and it barks, then it's a dog." Now imagine writing a rule for every angle, every breed, every lighting condition, every weird camera filter your friend put on their photo. You'd be writing rules forever, and you'd still get it wrong sometimes.
 
 That one problem — "how do we get a computer to handle the real world without hand-writing a rule for everything" — is basically the whole 70-year story of AI. It's a story of computer scientists hitting a wall, finding a clever way around it, hitting a new wall, and finding another way around that. Let's walk through it, one big idea at a time.
