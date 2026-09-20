@@ -70,7 +70,7 @@ Local Docker Compose and free-tier CI. No paid cloud resources.
 
 - [ ] All functional requirements have a passing test
 - [ ] Every NFR has a measured value
-- [ ] OpenAPI contract and API checklist completed
+- [ ] OpenAPI contract and API checklist completed (items that do not apply marked N/A with a reason)
 - [ ] Dockerfile and a CI run executing the tests
 - [ ] Threat-model entry and an authorization test
 - [ ] Evaluation set runs and meets its thresholds
