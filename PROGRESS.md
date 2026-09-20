@@ -4,7 +4,7 @@
 
 **Start date:** TBD
 
-The purpose of this phase is to finalize the repository structure, learning sequence, and technical scope before Day 1.
+The purpose of this phase is to finalize the repository structure, roadmap sequence, and technical scope before Day 1.
 
 ## 100-Day Tracker
 

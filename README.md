@@ -2,7 +2,7 @@
 
 > A hands-on journey from system design to production-grade Enterprise AI architecture.
 
-This repository is a learning roadmap.
+This repository is a public build log: a roadmap, the decisions made along the way, and the code and evidence behind them.
 
 The objective is to develop the ability to **understand, design, build, break, measure, secure, and explain** production AI systems.
 
@@ -14,11 +14,11 @@ By the end of the journey, I should be able to demonstrate a coherent capability
 
 All of these converge into **one flagship Enterprise AI platform**.
 
-## Learning Philosophy
+## Working Method
 
-Every meaningful topic follows:
+Work is driven by gaps. A gap is something the build exposed that I could not yet answer, decide or prove. Each one is logged in [GAPS.md](./GAPS.md) and closed by a decision or by evidence. I study only what is needed to close the current gap.
 
-**Learn → Build → Break → Measure → Decide → Document**
+**Build → Break → Measure → Decide → Document**
 
 The repository values:
 
@@ -39,7 +39,7 @@ ai/                        (planned) LLMs, RAG, agents, evaluation, inference
 distributed-systems-lab/   (planned) Hands-on distributed systems implementation
 projects/                  Progressive capability slices
 experiments/               (planned) Focused technical experiments
-days/                      Day-by-day engineering journal
+days/                      Day-by-day journal of gaps found and closed
 docs/                      Durable technical notes
 infrastructure/            (planned) Docker, Kubernetes, Terraform, Azure
 .github/                   PR template (CI, security and evaluation automation planned)
@@ -98,7 +98,7 @@ The journey ultimately converges into a production-oriented Enterprise AI platfo
 - FinOps and cost controls
 - resilience, scaling and disaster recovery
 
-The flagship is the **proof of integration** of building and demonstrating everything I have learnt along the journey.
+The flagship is the **proof of integration**: everything built along the way, working together.
 
 ## Current Status
 
