@@ -1,8 +1,5 @@
 # How Large Language Models Actually Work: From Your Prompt to Every Word They Write
 
-> **Original publication:** Hashnode  
-> **Role in this repository:** AI/LLM foundations — the mental model behind the later RAG, agents, evaluation, and LLM infrastructure work.
-
 *A complete, plain-English mental model — from tokens to attention to the exact moment ChatGPT picks its next word.*
 
 ![](https://cdn.hashnode.com/uploads/covers/653aa283805ce8301a2a5d7d/b467051f-0911-4035-8b8a-21e9a8546789.png)

@@ -169,7 +169,7 @@ Resources are categorized as:
 - **Reference** — consulted when a specific gap appears
 - **Optional** — useful but not required
 
-A new course or certification is not added unless it fills a clearly identified capability gap.
+Add a resource only when the roadmap calls for it or the current implementation exposes a real gap, and only if it provides one of: a missing mental model, a stronger implementation technique, a production case study, or a new architectural capability.
 
 ---
 
