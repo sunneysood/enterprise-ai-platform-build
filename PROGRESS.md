@@ -3,9 +3,9 @@
 ## Day 0 — Preparation
 
 - **Period:** 2026-09-21 until the official start
-- **Target official start:** 2026-11-01
+- **Target official start:** mid-November 2026
 
-Day 0 is the preparation period before Day 001. Its purpose is to finalize the repository structure, roadmap sequence and technical scope. The program officially starts when Day 0 ends; the target is 1 November 2026, and Day 001 is the first working session after that.
+Day 0 is the preparation period before Day 001. Its purpose is to finalize the repository structure, roadmap sequence and technical scope. The program officially starts when Day 0 ends; the target is mid-November 2026, and Day 001 is the first working session after that.
 
 ### Readiness checklist
 
