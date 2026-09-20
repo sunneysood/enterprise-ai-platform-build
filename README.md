@@ -102,7 +102,7 @@ The flagship is the **proof of integration**: everything built along the way, wo
 
 ### Day 0 — Preparation
 
-The preparation period runs until the official start (target: 1 November 2026). Status and the readiness checklist are tracked in [PROGRESS.md](./PROGRESS.md).
+The preparation period runs until the official start (target: mid-November 2026). Status and the readiness checklist are tracked in [PROGRESS.md](./PROGRESS.md).
 
 ## Guiding Principle
 **“What architectural problem can I solve now that I could not solve before?”**
