@@ -1,6 +1,6 @@
 # Daily Engineering Journal
 
-Each entry records a gap: something the build exposed that I could not yet answer, decide or prove, and how it was closed. The running summary is in [GAPS.md](./GAPS.md).
+Each entry records a gap: something the build exposed that I could not yet answer, decide or prove, and how it was closed. The running summary is in [GAPS.md](../GAPS.md).
 
 A day is one working session (about 2–3 hours). Create one file per day, named `day-001.md`, `day-002.md`, and so on.
 
@@ -25,4 +25,4 @@ If a day produces a real decision, use the full template and write an [ADR](../a
 
 ## Completion rule
 
-A day is complete when its entry links at least one tangible artifact and includes evidence. The accepted artifacts are listed under Evidence Rules in [PROGRESS.md](../PROGRESS.md). A gap opened during the day goes into [GAPS.md](./GAPS.md) and stays open until a decision or evidence closes it.
+A day is complete when its entry links at least one tangible artifact and includes evidence. The accepted artifacts are listed under Evidence Rules in [PROGRESS.md](../PROGRESS.md). A gap opened during the day goes into [GAPS.md](../GAPS.md) and stays open until a decision or evidence closes it.

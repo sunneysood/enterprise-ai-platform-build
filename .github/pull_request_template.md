@@ -16,6 +16,7 @@ What does this change do, and why?
 - [ ] No secrets, tokens or personal data
 - [ ] ADR added or updated if this changes an architectural decision
 - [ ] PROGRESS.md or the day entry updated if this completes work
+- [ ] GAPS.md updated if a gap was opened or closed
 
 ## Evidence
 

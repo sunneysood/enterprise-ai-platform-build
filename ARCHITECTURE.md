@@ -10,8 +10,8 @@ The target state is a modular Enterprise AI platform.
                          Identity / RBAC
                                  │
                     ┌────────────▼────────────┐
-                    │       API / AI Gateway   │
-                    │ auth • policy • limits   │
+                    │       API / AI Gateway  │
+                    │ auth • policy • limits  │
                     └────────────┬────────────┘
                                  │
               ┌──────────────────┼──────────────────┐
@@ -31,12 +31,12 @@ The target state is a modular Enterprise AI platform.
                                 │
        ┌────────────────────────┼────────────────────────┐
        │                        │                        │
-┌──────▼──────┐        ┌────────▼────────┐       ┌──────▼──────┐
+┌──────▼──────┐        ┌────────▼────────┐       ┌──────▼───────┐
 │ Evaluation  │        │ Security / Gov. │       │ Observability│
 │ regression  │        │ policy / audit  │       │ logs/traces  │
 └─────────────┘        └─────────────────┘       └──────────────┘
                                 │
-                        ┌───────▼────────┐
+                        ┌───────▼─────────┐
                         │ FinOps / SRE    │
                         │ cost • SLO • DR │
                         └─────────────────┘
