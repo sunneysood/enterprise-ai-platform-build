@@ -1,8 +1,8 @@
 # Roadmap
 
-## Phase 0 — Planning
+## Day 0 — Preparation
 
-Start date and status: see [PROGRESS.md](./PROGRESS.md).
+The preparation period before Day 001. Dates, status and the readiness checklist: see [PROGRESS.md](./PROGRESS.md).
 
 ---
 
