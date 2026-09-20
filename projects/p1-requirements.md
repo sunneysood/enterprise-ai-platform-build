@@ -56,7 +56,7 @@ User interface, external identity provider integration (tokens are issued locall
 
 ## 8. Security and tenancy
 
-Token claims carry `sub`, `tenant_id` and `roles`. Tenant scoping is enforced in one data-access layer and covered by tests, not repeated in each handler. A threat-model entry for P1 will be written before Day 045.
+Token claims carry `sub`, `tenant_id` and `roles`. Tenant scoping is enforced in one data-access layer and covered by tests, not repeated in each handler. A threat model for P1 will be written in `architecture/threat-models/p1-api-foundation.md` before Day 045.
 
 ## 9. Evaluation
 

@@ -31,18 +31,16 @@ The repository values:
 ## Repository Map
 
 ```
-architecture/              Architecture artifacts and decisions
-system-design/             (planned) Distributed systems and real-world system studies
-api-design/                Production API architecture
-data/                      (planned) Data engineering and governance
-ai/                        (planned) LLMs, RAG, agents, evaluation, inference
-distributed-systems-lab/   (planned) Hands-on distributed systems implementation
-projects/                  Progressive capability slices
-experiments/               (planned) Focused technical experiments
+architecture/              ADRs, threat models and diagrams
+system-design/             (planned) Written studies of real-world systems
+api-design/                API design checklist and guidance
+projects/                  Code for the eight projects, one directory each (P8 is the flagship)
+libs/                      (planned) Shared packages, extracted when a second project needs them
+experiments/               (planned) Time-boxed spikes and lab experiments
+infrastructure/            (planned) Docker, Kubernetes, Terraform, Azure
 days/                      Day-by-day journal of gaps found and closed
 docs/                      Durable technical notes
-infrastructure/            (planned) Docker, Kubernetes, Terraform, Azure
-.github/                   PR template (CI, security and evaluation automation planned)
+.github/                   PR template (CI workflows planned)
 ```
 
 ## The 100-Day Structure

@@ -26,3 +26,4 @@ Use an ADR for decisions involving architecture, security, reliability, data own
 | ADR | Title | Status | Date |
 |---|---|---|---|
 | [0001](./0001-docs-first-monorepo-with-pr-workflow.md) | Docs-first monorepo with a pull-request workflow | Accepted | 2026-09-19 |
+| [0002](https://claude.ai/chat/0002-monorepo-code-layout.md) | Monorepo code layout for the eight projects and the flagship platform | Accepted | 2026-09-21 |

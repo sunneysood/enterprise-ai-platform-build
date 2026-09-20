@@ -11,9 +11,9 @@ Day 0 is the preparation period before Day 001. Its purpose is to finalize the r
 
 - [x] Documentation reviewed: links and tables verified
 - [ ] AI-foundations images hosted in the repository with alt text
-- [ ] GitHub settings: repository topics and branch protection on `main`
+- [x] GitHub settings: repository topics and branch protection on `main`
 - [ ] P1 requirements reviewed and the case-API domain confirmed
-- [ ] Artifact locations decided (project code, threat models)
+- [x] Artifact locations decided (project code, threat models)
 - [ ] Official start date confirmed
 
 ## 100-Day Tracker
