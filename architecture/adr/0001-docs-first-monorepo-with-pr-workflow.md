@@ -1,6 +1,6 @@
 # ADR-0001: Docs-first monorepo with a pull-request workflow
 
-- **Status:** Accepted
+- **Status:** Accepted (revisit clause narrowed by [ADR-0002](https://claude.ai/chat/0002-monorepo-code-layout.md))
 - **Date:** 2026-09-19
 - **Decision area:** Repository structure and change management
 
