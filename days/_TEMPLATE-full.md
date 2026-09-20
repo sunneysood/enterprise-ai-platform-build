@@ -2,17 +2,20 @@
 
 **Date:** YYYY-MM-DD | **Block:** <roadmap block> | **Time spent:** <hours> | **Template:** full
 
-## 1. Problem
+## 1. The gap
 
-What problem am I solving?
+What could I not yet answer, decide or prove?
+
+- **Found by:** failing test, missed target, requirement, threat-model finding or review comment
+- **Gap ID:** G-NNN (or "none — extended <thing>, no gap found")
 
 ## 2. Why it matters
 
-What production or business consequence does it address?
+What production or business consequence does it have?
 
-## 3. What I learned
+## 3. What I needed to learn
 
-Only the minimum theory needed to understand the problem.
+Only the minimum theory needed to close the gap.
 
 ## 4. Architecture
 

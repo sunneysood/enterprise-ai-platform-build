@@ -2,9 +2,12 @@
 
 **Date:** YYYY-MM-DD | **Block:** <roadmap block> | **Time spent:** <hours> | **Template:** light
 
-## 1. Goal
+## 1. The gap
 
-What problem or question did this session address? One or two sentences.
+What could I not yet answer, decide or prove? One or two sentences.
+
+- **Found by:** failing test, missed target, requirement, threat-model finding or review comment
+- **Gap ID:** G-NNN (or "none — extended <thing>, no gap found")
 
 ## 2. What I built or decided
 
