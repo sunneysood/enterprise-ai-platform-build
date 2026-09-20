@@ -57,4 +57,3 @@ A day is considered complete when there is at least one tangible artifact:
 - cost analysis
 - written architectural explanation
 
-Watching a video alone does not count as evidence.
