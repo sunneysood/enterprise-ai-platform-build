@@ -25,7 +25,7 @@ Statuses: `Open` · `Closed` · `Deferred` (say why in the last column)
 
 | ID | Gap | Found on | Found by | Status | Closed by |
 |---|---|---|---|---|---|
-| G-001 | Tenant isolation strategy for P1 is undecided | Phase 0 | P1 requirements | Open | |
-| G-002 | Token format and signing approach for P1 is undecided | Phase 0 | P1 requirements | Open | |
-| G-003 | Database migration tool for P1 is undecided | Phase 0 | P1 requirements | Open | |
-| G-004 | Error format for P1 is undecided | Phase 0 | P1 requirements | Open | |
+| G-001 | Tenant isolation strategy for P1 is undecided | Day 0   | P1 requirements | Open | |
+| G-002 | Token format and signing approach for P1 is undecided | Day 0   | P1 requirements | Open | |
+| G-003 | Database migration tool for P1 is undecided | Day 0   | P1 requirements | Open | |
+| G-004 | Error format for P1 is undecided | Day 0   | P1 requirements | Open | |

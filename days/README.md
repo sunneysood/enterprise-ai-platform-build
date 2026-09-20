@@ -10,6 +10,10 @@ A day is one working session (about 2–3 hours). Create one file per day, named
 - What was built or decided to close it, with links
 - Evidence that it is closed
 
+## Day 0
+
+The preparation period before Day 001 is tracked as a readiness checklist in [PROGRESS.md](../PROGRESS.md), not as day files. Numbered entries start at `day-001.md`.
+
 ## Days with no gap
 
 Not every session exposes a gap. Log those with the light template as "extended X, no gap found". Do not invent one.
